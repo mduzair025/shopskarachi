@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="<?php echo e(asset('assets/backend/css/dropzone.css')); ?>">
+<link rel="stylesheet" href="<?php echo e(asset('assets/backend/css/media-uploader.css')); ?>"><?php /**PATH E:\laragon\www\MDUZAIR\zaika\@mdcore\resources\views/components/media/css.blade.php ENDPATH**/ ?>
